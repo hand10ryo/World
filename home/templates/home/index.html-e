@@ -1,0 +1,5 @@
+<h1><b>home</b></h1><br>
+<a href='/app_name/'>app_name</a>
+<p />
+<a href="../accounts/logout/">Logout</a>
+<p />
